@@ -1,0 +1,16 @@
+User Full Name:Tulsi Rao
+Classification:Employee
+Employee Code:NA
+Employee Company:KRCSPL
+Department:Engineering
+Floor:Ground Floor
+Auto Cad Sl No:NA
+
+Asset Tag:1850-400-1244-000
+Asset Sl No:5YJDH92
+Asset Part Number:FHCM5A00
+Monitor Part No:NA
+Company Name Of Asset:KRSPL
+Warranty start Date:NA
+Warranty end Date:NA
+P.O No:NA
